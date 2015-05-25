@@ -1,0 +1,1 @@
+An app built using the offical Django tutorial, Version 1.8. Also using Python3.
